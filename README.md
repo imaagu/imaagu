@@ -1,4 +1,13 @@
-### Hi there 👋
+Hi, I'm Aagam Jain
+
+👋 Hey there, welcome!
+I'm Fullstack developer from India.
+
+💡 I like to explore new trends and learn new technologies.
+🐱 I'm on track for learning more about React, Redux, TypeScript, AWS and NextJS.
+✍🏼 I've recently started learning about web3.
+❤️ Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
+🎮 Fullstack developer at [GamyFi Platform](https://www.gamyfi.org/home)
 
 <!--
 **imaagu/imaagu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
