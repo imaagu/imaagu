@@ -11,6 +11,14 @@ I'm **Fullstack developer** from India.
 - ❤️ Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 - 🎮 Fullstack developer at [GamyFi Platform](https://www.gamyfi.org/home)
 
+## 👨🏻‍💻 &nbsp; Tools & Technology 🔨 I use to build stuff
+
+<p>
+ <img alt="React" src="https://img.shields.io/badge/React-blue?style=plastic&logo=React" />
+ <img alt="Javascript" src="https://img.shields.io/badge/Javascript-yellow?style=plastic&logo=Javascript">
+ <img alt="Typescript" src="https://img.shields.io/badge/Typescript-white?style=plastic&logo=Typescript">
+ </p>
+
 <!--
 **imaagu/imaagu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
