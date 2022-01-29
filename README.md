@@ -24,6 +24,8 @@ I'm **Fullstack developer** from India.
  <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-white?style=plastic&logo=PostgreSQL">
  <img alt="Sequlize" src="https://img.shields.io/badge/Sequelize-orange?style=plastic&logo=Sequelize">
  <img alt="Git" src="https://img.shields.io/badge/Git-black?style=plastic&logo=Git">
+ <img alt="Tailwind" src="https://img.shields.io/badge/TailwindCSS-brown?style=plastic&logo=TailwindCSS">
+ <img alt="Solidity" src="https://img.shields.io/badge/Solidity-purple?style=plastic&logo=Solidity">
  </p>
 
 <!--
