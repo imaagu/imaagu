@@ -17,12 +17,14 @@ I'm **Fullstack developer** from India.
  <img alt="React" src="https://img.shields.io/badge/React-blue?style=plastic&logo=React" />
  <img alt="Javascript" src="https://img.shields.io/badge/Javascript-yellow?style=plastic&logo=Javascript">
  <img alt="Typescript" src="https://img.shields.io/badge/Typescript-white?style=plastic&logo=Typescript">
- </p>
- <img alt="Node.js" src="https://img.shields.io/badge/Node.js-black?style=plastic&logo=Node.js">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-black?style=plastic&logo=Node.js">
  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-white?style=plastic&logo=Bootstrap">
  <img alt="MySQL" src="https://img.shields.io/badge/MySQ-purple?style=plastic&logo=MySQL">
  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-gray?style=plastic&logo=MongoDB">
-
+ <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-white?style=plastic&logo=PostgreSQL">
+ <img alt="Sequlize" src="https://img.shields.io/badge/Sequelize-orange?style=plastic&logo=Sequelize">
+ <img alt="Git" src="https://img.shields.io/badge/Git-black?style=plastic&logo=Git">
+ </p>
 
 <!--
 **imaagu/imaagu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
