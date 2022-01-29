@@ -1,7 +1,9 @@
-Hi, I'm Aagam Jain
+# Hi, I'm Aagam Jain
 
 👋 Hey there, welcome!
-I'm Fullstack developer from India.
+I'm Fullstack developer from :india: India.
+
+## About me
 
 - 💡 I like to explore new trends and learn new technologies.
 - 🐱 I'm on track for learning more about React, Redux, TypeScript, AWS and NextJS.
