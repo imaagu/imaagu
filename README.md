@@ -35,6 +35,9 @@ I'm **Fullstack developer** from India.
 ## 🌎 &nbsp;Where to find me
 
 <p>
+<a href="https://imaagu.com/" target="_blank">
+<img alt="portfolio"  src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge"/>
+</a>
   <a href="https://www.linkedin.com/in/aagam98/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/imAagamJain" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
  
