@@ -1,9 +1,9 @@
 # Hi, I'm Aagam Jain
 
-👋 Hey there, welcome!
+Hey there, welcome!
 I'm **Fullstack developer** from India.
 
-## About me
+## 👋 &nbsp;About me
 
 - 💡 I like to explore new trends and learn new technologies.
 - 🐱 I'm on track for learning more about React, Redux, TypeScript, AWS and NextJS.
@@ -31,6 +31,15 @@ I'm **Fullstack developer** from India.
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
   <img alt="Npm" src="https://img.shields.io/badge/-NPM-CB3837?style=plastic&logo=npm&logoColor=white" />
  </p>
+
+## 🌎 &nbsp;Where to find me
+
+<p>
+  <a href="https://www.linkedin.com/in/aagam98/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  
+ <a href="https://twitter.com/imAagamJain" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+ 
+</p>
 
 <!--
 **imaagu/imaagu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
