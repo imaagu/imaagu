@@ -1,7 +1,7 @@
 # Hi, I'm Aagam Jain
 
 👋 Hey there, welcome!
-I'm Fullstack developer from :india: India.
+I'm **Fullstack developer** from India.
 
 ## About me
 
