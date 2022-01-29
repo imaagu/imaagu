@@ -11,6 +11,8 @@ I'm **Fullstack developer** from India.
 - ❤️ Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 - 🎮 Fullstack developer at [GamyFi Platform](https://www.gamyfi.org/home)
 
+[create issue](https://github.com/user/repository/issues/new)
+
 <!--
 **imaagu/imaagu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
